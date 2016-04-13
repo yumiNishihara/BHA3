@@ -6,22 +6,22 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: header_unsplash_5.jpg
 widget1:
-  title: "Blog & Portfolio"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  title: "Biohack Academy"
+  url: 'http://yumiNishihara.github.io/about/'
   image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: 'Biohack Academy is an education program of <a href="http://waag.org/en">Waag Society Amsterdam</a>. Held for the first time in the Spring of 2015. The course is fully open source and distributed through partner labs around the globe.'
 widget2:
-  title: "Why use this theme?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  title: "Weekly Documentation"
+  url: 'http://yumiNishihara.github.io/blog/archive/'
+  image: widget-1-302x182.jpg
+  text: 'Every week we fabricate the hardware necessary for our new bio lab at <a href="https://mtrl.net/shibuya/">FabCafe MTRL</a>. From laser cutting and assembling the pars to soldering the circuits, take a look at our journey of plentiful failures and well earned triumphs.'
 widget3:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+  title: "Final Project"
+  url: 'http://yumiNishihara.github.io/final_project/'
+  image: widget-1-302x182.jpg
+  text: 'This project is an attempt to collect the microbes both on humans and in the surrounding environment and use it as a living material to grow on jewellery so that it will reflect how we are and where we are.'
 #
 # Use the call for action to show a button on the frontpage
 #
